@@ -15,6 +15,6 @@ For Linux you could try using Linuxbrew or some other alternative to Homebrew.
 
 in your terminal:
 ```
-$ renaming-resizing-script-master % /Users/nolandchaliha/Downloads/renaming-resizing-script-master/renaming_resizing_script.sh 500 500 yourPNGtoBeRenamedorResized/
+$ renaming-resizing-script-master % /Users/nolandchaliha/Downloads/rename_resize_save_as_png/renaming_resizing_script.sh 500 500 yourPNGtoBeRenamedorResized/
 ```
 would resize your image to 500 by 500 
